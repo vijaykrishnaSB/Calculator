@@ -14,16 +14,16 @@ input {
 }
 
 button{
-    font-size: 40px;
-    background-color: orange;
-    width: 105px;
+    font-size: 35px;
+    background-color: white;
+    width: 125px;
     height: 60px;
     border-radius:25px;
 }
 
 .calculator {
     display: inline-block;
-    padding: 25px;
+    padding: 22px;
     border-radius: 50px;
-    background-color: pink;
+    background-color: gray;
 }
